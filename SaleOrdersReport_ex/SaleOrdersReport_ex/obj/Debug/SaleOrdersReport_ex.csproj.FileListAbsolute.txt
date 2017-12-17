@@ -1,0 +1,27 @@
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\SaleOrdersReport_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\RdlCompile.cache
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\RdlCompile.compiled
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\rptSaleOrders.rdlc
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\SaleOrdersReport_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\SaleOrdersReport_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.pdb
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.csprojResolveAssemblyReference.cache
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.Form1.resources
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.Properties.Resources.resources
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.csproj.GenerateResource.Cache
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.csproj.CoreCompileInputs.cache
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.exe
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\obj\Debug\SaleOrdersReport_ex.pdb
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\rptSaleOrders.rdlc
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\SaleOrdersReport_ex.exe.config
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\SaleOrdersReport_ex.exe
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\SaleOrdersReport_ex.pdb
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\專案開發實戰攻略書籍_程式碼\程式範例\CH10\SaleOrdersReport_ex\SaleOrdersReport_ex\bin\Debug\Microsoft.SqlServer.Types.dll
